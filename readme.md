@@ -30,7 +30,7 @@
 
 ## Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <th align="center" width="20%"><b>Languages</b></th>
 <th align="center" width="20%"><b>Frontend</b></th>
