@@ -30,13 +30,13 @@
 
 ## Tech Stack
 
-<table width="100%">
+<table style="width: 100%;">
 <tr>
-<th align="center" width="20%"><b>Languages</b></th>
-<th align="center" width="20%"><b>Frontend</b></th>
-<th align="center" width="20%"><b>Backend</b></th>
-<th align="center" width="20%"><b>Databases</b></th>
-<th align="center" width="20%"><b>DevOps & Tools</b></th>
+<th align="center" style="width: 20%;"><b>Languages</b></th>
+<th align="center" style="width: 20%;"><b>Frontend</b></th>
+<th align="center" style="width: 20%;"><b>Backend</b></th>
+<th align="center" style="width: 20%;"><b>Databases</b></th>
+<th align="center" style="width: 20%;"><b>DevOps & Tools</b></th>
 </tr>
 <tr>
 <td align="center" valign="top">
