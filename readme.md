@@ -61,6 +61,8 @@
       </td>
       <td width="200">
         <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&amp;logoColor=white&amp;style=flat" />
+        <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?logo=express&amp;logoColor=white&amp;style=flat" />
+        <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&amp;logoColor=white&amp;style=flat" />
         <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&amp;logoColor=222&amp;style=flat" />
         <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&amp;logoColor=white&amp;style=flat" />
         <img alt="REST APIs" src="https://img.shields.io/badge/-REST%20APIs-5A67D8?logo=fastapi&amp;logoColor=white&amp;style=flat" />
@@ -68,6 +70,7 @@
       <td width="200">
         <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&amp;logoColor=white&amp;style=flat" />
         <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&amp;logoColor=white&amp;style=flat" />
+        <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&amp;logoColor=white&amp;style=flat" />
         <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&amp;logoColor=white&amp;style=flat" />
       </td>
       <td width="200">
