@@ -88,27 +88,3 @@
     </tr>
   </table>
 </div>
-
-## GitHub stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vicentehmba&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentehmba&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top languages">
-</p>
-
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vicentehmba&theme=react-dark&hide_border=true&area=true&border_radius=10" alt="GitHub Activity Graph">
-</p>
-
-## 📈 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicentehmba&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
-</p>
-
-### Featured projects
-
-- [Datanesa](https://datanesa.com)
-- [Marte](http://martge.com)
