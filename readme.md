@@ -1,90 +1,53 @@
 <div align="center">
   <img src="./Coffee.gif" width="80" alt="Coffee animation">
-</div>
 
-<h1 align="center">Hello, call me Hugo 👋</h1>
-<div align="center">
-<strong>Intermediate Full-Stacked Developer</strong>
-<br>
-<img src="https://komarev.com/ghpvc/?username=vicentehmba&color=brightgreen&style=flat" alt="Profile views">
-<a href="https://github.com/vicentehmba"><img src="https://img.shields.io/github/followers/vicentehmba?label=Follow&style=social" alt="GitHub followers"></a>
-<a href="https://www.linkedin.com/in/vicentehmba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
-<a href="https://sayhugo.com/resume.pdf" target="_blank">
-<img src="https://img.shields.io/badge/Resume-gray?logo=readme&logoColor=white" alt="Resume">
-</a>
-<a href="http://www.sayhugo.com" target="_blank">
-<img src="https://img.shields.io/badge/sayhugo.com-black?logo=vercel&logoColor=white" alt="Portfolio">
-</a>
+  <h1>Hi, I’m Hugo 👋</h1>
+
+  <p>
+    <strong>Software developer and product builder exploring AI, developer tools, and new ways to solve real problems.</strong>
+  </p>
+
+  <a href="https://github.com/vicentehmba">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/vicentehmba/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://sayhugo.com/resume.pdf">
+    <img src="https://img.shields.io/badge/Résumé-View-555555?logo=readdotcv&logoColor=white" alt="Résumé">
+  </a>
+  <a href="https://www.vicentehmba.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 ## About me
 
-- 🧑‍💻 Just a Developer with a passion for creating interactive and user-friendly web and mobile applications
-- Focusing on modern web technologies with a keen eye for design and detail
+I’m a software developer who enjoys turning new technology into practical, understandable products.
 
-## 🎯 Current Focus
+My work sits mostly around AI-powered developer tools, cross-platform applications, and local-first software. I care about the entire product—not only how it is built, but how it feels to use and whether it solves a meaningful problem.
 
-- 🔨 Working on **Martge** - A mobile-first C2C marketplace platform
-- 📱 Exploring **SwiftUI & Jetpack Compose** for native mobile development
-- 🎨 Improving **UI/UX design** skills with modern design patterns
+I’m usually prototyping an idea, simplifying a complicated workflow, or learning enough about a new technology to build something useful with it.
 
-## Tech Stack
+## What I’m working on
 
-<div align="center">
-  <table width="1000">
-    <tr>
-      <th align="left" width="200">Languages</th>
-      <th align="left" width="200">Frontend</th>
-      <th align="left" width="200">Backend</th>
-      <th align="left" width="200">Databases</th>
-      <th align="left" width="200">DevOps &amp; Tools</th>
-    </tr>
-    <tr>
-      <td width="200">
-        <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&amp;logoColor=222&amp;style=flat" />
-        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&amp;logoColor=white&amp;style=flat" />
-        <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&amp;logoColor=white&amp;style=flat" />
-        <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&amp;logoColor=white&amp;style=flat" />
-        <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?logo=swift&amp;logoColor=white&amp;style=flat" />
-        <img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&amp;logoColor=white&amp;style=flat" />
-        <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&amp;logoColor=white&amp;style=flat" />
-        <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&amp;logoColor=white&amp;style=flat" />
-        <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&amp;logoColor=white&amp;style=flat" />
-      </td>
-      <td width="200">
-        <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&amp;logoColor=222&amp;style=flat" />
-        <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&amp;logoColor=white&amp;style=flat" />
-        <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&amp;logoColor=white&amp;style=flat" />
-        <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-005CFF?logo=swift&amp;logoColor=white&amp;style=flat" />
-        <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpackcompose&amp;logoColor=white&amp;style=flat" />
-        <img alt="Framer" src="https://img.shields.io/badge/-Framer-0055FF?logo=framer&amp;logoColor=white&amp;style=flat" />
-      </td>
-      <td width="200">
-        <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&amp;logoColor=white&amp;style=flat" />
-        <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?logo=express&amp;logoColor=white&amp;style=flat" />
-        <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&amp;logoColor=white&amp;style=flat" />
-        <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&amp;logoColor=222&amp;style=flat" />
-        <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&amp;logoColor=white&amp;style=flat" />
-        <img alt="REST APIs" src="https://img.shields.io/badge/-REST%20APIs-5A67D8?logo=fastapi&amp;logoColor=white&amp;style=flat" />
-      </td>
-      <td width="200">
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&amp;logoColor=white&amp;style=flat" />
-        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&amp;logoColor=white&amp;style=flat" />
-        <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&amp;logoColor=white&amp;style=flat" />
-        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&amp;logoColor=white&amp;style=flat" />
-      </td>
-      <td width="200">
-        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&amp;logoColor=white&amp;style=flat" />
-        <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&amp;logoColor=white&amp;style=flat" />
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&amp;logoColor=white&amp;style=flat" />
-        <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&amp;logoColor=white&amp;style=flat" />
-        <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&amp;logoColor=white&amp;style=flat" />
-        <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&amp;logoColor=white&amp;style=flat" />
-        <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&amp;logoColor=white&amp;style=flat" />
-        <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&amp;logoColor=white&amp;style=flat" />
-        <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&amp;logoColor=white&amp;style=flat" />
-        <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?logo=notion&amp;logoColor=white&amp;style=flat" />
-      </td>
-    </tr>
-  </table>
-</div>
+* Building **Zencode**, a local-first AI coding workspace for working across models, tools, terminals, code, and reviewed changes.
+* Developing **ZEN**, its agent runtime, with a focus on model orchestration, native tool use, approvals, and reliable execution.
+* Exploring practical applications of AI and emerging technology for developers, creators, and markets underserved by existing software.
+
+## Tools I reach for
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white" alt="Bun">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
+</p>
+
+> I’m interested in technology not simply because it is new, but because of what becomes possible when it is shaped into the right product.
